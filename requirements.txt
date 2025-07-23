@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 altair
-pybaseball
+pybaseball==2.2.7
 statsapi
